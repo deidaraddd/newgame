@@ -1,0 +1,2 @@
+# newgame
+JS small game
